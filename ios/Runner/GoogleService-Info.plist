@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>132250352501-ms3845556r0uhhk7c27ivlb2dk9ctj88.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.132250352501-ms3845556r0uhhk7c27ivlb2dk9ctj88</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFbNMvNyiFM_iJt_NqvSFHq7AobhVNZ3A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>132250352501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ryanmattscott.quizapp</string>
+	<key>PROJECT_ID</key>
+	<string>quiz-app-3ad1d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quiz-app-3ad1d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:132250352501:ios:0f9bf6765583791cd2f13c</string>
+	<key>DATABASE_URL</key>
+	<string>https://quiz-app-3ad1d.firebaseio.com</string>
+</dict>
+</plist>
